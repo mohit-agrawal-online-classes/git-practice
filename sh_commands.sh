@@ -3,7 +3,5 @@
 
 cd <folder name>
 ls -la
-ll
-mkdir
 cp <> <>
 
