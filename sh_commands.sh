@@ -3,5 +3,8 @@
 
 cd <folder name>
 ls -la
-cp <> <>
+cp <what-to-copy> <where-to-copy>
 
+
+less
+tail -f
